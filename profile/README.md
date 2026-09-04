@@ -5,7 +5,7 @@
 
 
 <p align="center" style="margin-top: 0;">
-  A Minecraft Game network.
+  A Minecraft network.
 </p>
 
 <p align="center" style="margin-top: 0;">
