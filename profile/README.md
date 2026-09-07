@@ -10,10 +10,11 @@
 
 <p align="center" style="margin-top: 0;">
   Built for Bedrock.
+  a project of The Lumera Works 
 </p>
 
 ---
 
 <p align="center" style="margin-top: 15px;">
-  Sylverra Network © 2026
+  The Lumera Works © 2026
 </p>
