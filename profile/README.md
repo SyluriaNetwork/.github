@@ -9,7 +9,7 @@
 </p>
 
 <p align="center" style="margin-top: 0;">
-  Built for Bedrock.
+  Built for Java.
   a project of The Lumera Works 
 </p>
 
