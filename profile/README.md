@@ -6,7 +6,7 @@
 
 
 <p align="center" style="margin-top: 0;">
-  A Minecraft SMP network.
+  A Minecraft minigames network.
 </p>
 
 <p align="center" style="margin-top: 0;">
