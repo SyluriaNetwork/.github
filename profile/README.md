@@ -16,5 +16,5 @@
 ---
 
 <p align="center" style="margin-top: 15px;">
-  Syluria © 2026
+  SyluriaNET © 2026
 </p>
