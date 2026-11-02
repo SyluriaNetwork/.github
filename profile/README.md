@@ -1,5 +1,5 @@
 <p align="center" style="margin: 0;">
-  <img src="https://i.ibb.co/KxcjfCNq/banner.png" width="1500" style="margin-bottom: -10px;">
+  <img src="https://i.ibb.co/DftrsCR7/2banner-copy.png" width="1500" style="margin-bottom: -10px;">
   
 </p>
 
