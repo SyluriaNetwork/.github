@@ -1,5 +1,5 @@
 <p align="center" style="margin: 0;">
-  <img src="https://i.ibb.co/d0J9hdQg/banner-Logo-And-Games-copy.png" width="1500" style="margin-bottom: -10px;">
+  <img src="https://pbs.twimg.com/profile_banners/2117303574442962944/1793841444/1500x500" width="1500" style="margin-bottom: -10px;">
   
 </p>
 
